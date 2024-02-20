@@ -1,15 +1,4 @@
-you can see the preview from this link:-https://alok-mishra143.github.io/to-do-list/
-
-# web preview
-
-![image](https://github.com/alok-mishra143/to-do-list/assets/100504874/8af19374-3909-4a6a-a69e-4de257dfc2b1)
-
-
-
-
-this is my 1st web project 
-
-# To-Do List Project
+This is my 1st web project 
 
 ## Overview
 
@@ -37,7 +26,7 @@ The To-Do List project is a simple web application built with HTML, CSS, and Jav
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/alok-mishra143/to-do-list.git
+   git clone https://github.com/Sirvi1460/TO-DO-List.git
    ```
 
 2. **Open the Project:**
